@@ -1,5 +1,5 @@
 # TMT-Projects
-Math Topics for Telecommunications
+Math Topics for Telecommunications Projects
 
 Problems descriptions in Portuguese
 
